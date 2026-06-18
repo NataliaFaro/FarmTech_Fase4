@@ -238,6 +238,28 @@ A utilização de consultas SQL, algoritmos de Machine Learning e dashboards int
 
 ---
 
+🎥 Vídeo Demonstrativo
+
+A apresentação completa do projeto pode ser acessada pelo link abaixo:
+
+🔗 YouTube: https://youtu.be/hipRESzmE34
+
+O vídeo demonstra:
+
+Estrutura do projeto e organização das pastas.
+Criação e validação da tabela no Oracle Database.
+Execução das consultas SQL analíticas.
+Treinamento do modelo de Machine Learning utilizando Scikit-Learn.
+Avaliação das métricas MAE, MSE, RMSE e R².
+Funcionamento do dashboard desenvolvido em Streamlit.
+Visualização dos dados agrícolas.
+Análise de correlação entre variáveis.
+Gráfico de produtividade média por cultura.
+Previsão de produtividade agrícola.
+Recomendações automáticas de manejo com base nos resultados obtidos.
+
+---
+
 ## 🗃 Histórico de lançamentos
 
 * 0.1.0 - 2026 - Criação da estrutura inicial do projeto
